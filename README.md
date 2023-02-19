@@ -1,1 +1,1 @@
-# TPS-1-et-2-React-Lo-c-Delon
+# TPS 1 et 2 React Loïc Delon Développement Front End
